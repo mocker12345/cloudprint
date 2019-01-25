@@ -48,7 +48,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>3.2.8.RELEASE</version>
+      <version>3.2.9.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.mybatis</groupId>
@@ -83,7 +83,7 @@
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>fastjson</artifactId>
-      <version>1.1.37</version>
+      <version>1.2.25</version>
     </dependency>
     <dependency>
       <groupId>javax.servlet</groupId>
